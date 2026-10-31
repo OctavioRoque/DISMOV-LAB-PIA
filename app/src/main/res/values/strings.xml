@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">VolleyCoach</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_teams">Equipos</string>
+    <string name="nav_training">Entrenamiento</string>
+    <string name="nav_match">Partido</string>
+    <string name="nav_tactics">Pizarra</string>
+    <string name="nav_stats">Estadísticas</string>
+    <string name="nav_standings">Posiciones</string>
+
+    <!-- Teams & Players -->
+    <string name="teams_title">Equipos</string>
+    <string name="add_team">Nuevo Equipo</string>
+    <string name="edit_team">Editar Equipo</string>
+    <string name="team_name">Nombre del Equipo</string>
+    <string name="category">Categoría</string>
+    <string name="gender">Rama</string>
+    <string name="season">Temporada</string>
+    <string name="primary_color">Color Primario</string>
+    <string name="no_teams">No hay equipos registrados. ¡Crea el primero!</string>
+
+    <string name="players_title">Jugadores</string>
+    <string name="add_player">Nuevo Jugador</string>
+    <string name="edit_player">Editar Jugador</string>
+    <string name="player_name">Nombre completo</string>
+    <string name="jersey_number">Número de camiseta</string>
+    <string name="position">Posición</string>
+    <string name="height_cm">Altura (cm)</string>
+    <string name="dominant_hand">Mano dominante</string>
+    <string name="status">Estado</string>
+    <string name="notes">Notas</string>
+
+    <string name="import_csv">Importar CSV</string>
+    <string name="export_csv">Exportar CSV</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+    <string name="confirm_delete">¿Confirmar eliminación?</string>
+    <string name="delete_warning">Esta acción no se puede deshacer.</string>
+</resources>
